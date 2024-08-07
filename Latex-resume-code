@@ -268,25 +268,12 @@
 
 
 %-----------EXPERIENCE-----------
-\section{Experience}
+\section{EXPERIENCE}
   \resumeSubHeadingListStart
 
-
-    \resumeSubheading
-      {Data Trained Pvt.ltd. \href{https://drive.google.com/file/d/1epw6Sj00GFzOAC6sxnCrd7hoPBzprdZH/view}{\raisebox{-0.1\height}\faExternalLink }}{08 2021 -- 08 2022}
-      {\underline{Data Science Intern}}{Noida, India}
-      \resumeItemListStart
-        \resumeItem{\normalsize{Evaluated students' data science assignments and projects. }}
-        \resumeItem{\normalsize{Developed 10+ ML projects like fraud detection, loan prediction, and churn analysis. }}
-        \resumeItem{\normalsize{ Conducted doubt sessions and live classes, providing support and guidance to students. }}
-        \resumeItem{\normalsize{Gained hands-on experience in data processing, model training, selection, prediction, and deployment. }}
- 
-      \resumeItemListEnd  
-
-
-    \resumeSubheading
+      \resumeSubheading
       {Rapyder Cloud Solutions.
-      \href{}{\raisebox{-0.1\height}\faExternalLink }}{08 2021 -- 08 2022}
+      \href{}{\raisebox{-0.1\height}}}{12/2022 -- 05/2023}
       {\underline{AI/ML Trainee}}{Bengaluru, India}
       \resumeItemListStart
         \resumeItem{\normalsize{Developed a scalable MLOps framework with AWS SageMaker, reducing deployment time by 40 percent. }}
@@ -295,13 +282,29 @@
         \resumeItem{\normalsize{Enhanced data labeling efficiency for deep learning by 60 percent using AWS Ground Truth. }}
  
       \resumeItemListEnd 
+      
+
+
+    \resumeSubheading
+      {Data Trained Pvt.ltd. \href{https://drive.google.com/file/d/1epw6Sj00GFzOAC6sxnCrd7hoPBzprdZH/view}{\raisebox{-0.1\height}\faExternalLink }}{08/2021 -- 08/2022}
+      {\underline{Data Science Intern}}{Noida, India}
+      \resumeItemListStart
+        \resumeItem{\normalsize{Evaluated students' data science assignments and projects. }}
+        \resumeItem{\normalsize{Developed 10+ ML projects like fraud detection, loan prediction, and churn analysis. }}
+        \resumeItem{\normalsize{ Conducted doubt sessions and live classes, providing support and guidance to students. }}
+        \resumeItem{\normalsize{Gained hands-on experience in data processing, model training, selection, prediction, and deployment. }}
+ 
+      \resumeItemListEnd  
+      
   \resumeSubHeadingListEnd
 \vspace{-12pt}
 %-----------PROGRAMMING SKILLS-----------
 \section{TECHNICAL SKILLS}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{\normalsize{Languages:}}{ \normalsize{Python, SQL, Machine Learning, Deep Learning, Computer Vision, Exploratory Data Analysis, Statistics, AWS, Generative AI, Natural Language Processing}} \\
+     \textbf{\normalsize{Languages:}}{ \normalsize{Python, SQL, NO SQL}} \\
+     \textbf{\normalsize{Data Science and Machine Learning:}}{ \normalsize{Machine Learning, Deep Learning, Natural Language Processing, Generative AI, Computer Vision, Exploratory Data Analysis, Statistics}} \\
+     \textbf{\normalsize{Cloud and Deployment:}}{ \normalsize{AWS Sagemaker, AWS Lambda, AWS S3, AWS IAM, AWS EC2,  Amazon API Gateway}} \\
      \textbf{\normalsize{Developer Tools:}}{ \normalsize{VS Code, AWS Sagemaker, Google Colab, Pycharm, Jupyter Notebook, RStudio}} \\
      \textbf{\normalsize{Technologies/Frameworks:}}{\normalsize{ Scikit-learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib,  Hugging Face, Langchain, Github}} \\
     }}
@@ -322,4 +325,3 @@ $\sbullet[.75] \hspace{0.1cm}$ {\href{certificateLink.com}{AWS cloud Practitione
 
 
 \end{document}
-
